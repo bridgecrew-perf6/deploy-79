@@ -14,6 +14,7 @@
     "sass": "^1.49.7"
   },
   "repository": {
+    "url": "https://pv-create.github.io/deploy",
     "type": "git"
   },
   "scripts": {
